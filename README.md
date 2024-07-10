@@ -1,0 +1,1 @@
+Edsger Wybe Dijkstra (1930–2002) was a Dutch computer scientist and one of the most influential figures in the early development of computer science. He made significant contributions to various areas of computing, and his work has had a lasting impact on the field.
